@@ -2,5 +2,4 @@ RENCANA PROJECT
 
 - Web NGNTK
   ^ kerjasama team
-- Web portofolio
 - Cloning Web
