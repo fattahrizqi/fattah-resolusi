@@ -1,4 +1,5 @@
 RENCANA PROJECT
 
 - Web NGNTK
-- Cloning web
+  ^ kerjasama team
+- Cloning Web
