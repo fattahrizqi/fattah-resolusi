@@ -1,4 +1,4 @@
 RENCANA PROJECT
 
 - Web NGNTK
-- Web portofolio
+- Cloning web
